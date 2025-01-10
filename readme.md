@@ -16,5 +16,5 @@ This project contains a Python script to create an animation of the unit circle 
 
 Here is the final animation of the unit circle:
 
-![Unit Circle Animation](Final.mp4)
+https://github.com/user-attachments/assets/b7259897-e0c8-4bd5-9b03-f1451db44dcb
 
